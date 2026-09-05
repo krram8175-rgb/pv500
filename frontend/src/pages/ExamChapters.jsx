@@ -32,6 +32,7 @@ const CHAPTER_BANKS = {
   "neet:math:Set and Relation": "neet-math-set-and-relation",
   "neet:math:Matrices": "neet-math-matrices",
   "neet:math:Determinants": "neet-math-determinants",
+  "kcet:physics:Units and Measurements": "kcet-physics-units-and-measurements",
   "kcet:math:Basic Maths": "neet-math-basic-maths",
   "kcet:math:Set and Relation": "neet-math-set-and-relation",
   "kcet:math:Matrices": "neet-math-matrices",
