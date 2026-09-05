@@ -40,7 +40,8 @@ export default function FullPaperSolutions() {
   const q = filtered[cur];
 
   useEffect(() => {
-    [filtered[cur + 1], filtered[cur + 2], filtered[cur - 1]].filter(Boolean).forEach((qq) => {
+    // Preload the next SIX questions (and the previous one) so Next is instant.
+    [filtered[cur + 1], filtered[cur + 2], filtered[cur + 3], filtered[cur + 4], filtered[cur + 5], filtered[cur + 6], filtered[cur - 1]].filter(Boolean).forEach((qq) => {
       const urls = [qq.question_image, qq.solution_image, ...Object.values(qq.option_images || {})].filter(Boolean);
       urls.forEach((u) => { const im = new Image(); im.src = chapterImageUrl(u); });
     });
