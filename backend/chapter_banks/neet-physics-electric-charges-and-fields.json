@@ -23,7 +23,8 @@
             "c": "ecf-fp-q1-c.png",
             "d": "ecf-fp-q1-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q1-sol.png"
         },
         {
           "question_no": 2,
@@ -36,7 +37,8 @@
             "c": "ecf-fp-q2-c.png",
             "d": "ecf-fp-q2-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q2-sol.png"
         },
         {
           "question_no": 3,
@@ -49,7 +51,8 @@
             "c": "ecf-fp-q3-c.png",
             "d": "ecf-fp-q3-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q3-sol.png"
         },
         {
           "question_no": 4,
@@ -62,7 +65,8 @@
             "c": "ecf-fp-q4-c.png",
             "d": "ecf-fp-q4-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q4-sol.png"
         },
         {
           "question_no": 5,
@@ -75,7 +79,8 @@
             "c": "ecf-fp-q5-c.png",
             "d": "ecf-fp-q5-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q5-sol.png"
         },
         {
           "question_no": 6,
@@ -88,7 +93,8 @@
             "c": "ecf-fp-q6-c.png",
             "d": "ecf-fp-q6-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q6-sol.png"
         },
         {
           "question_no": 7,
@@ -101,7 +107,8 @@
             "c": "ecf-fp-q7-c.png",
             "d": "ecf-fp-q7-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q7-sol.png"
         },
         {
           "question_no": 8,
@@ -114,7 +121,8 @@
             "c": "ecf-fp-q8-c.png",
             "d": "ecf-fp-q8-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q8-sol.png"
         },
         {
           "question_no": 9,
@@ -127,7 +135,8 @@
             "c": "ecf-fp-q9-c.png",
             "d": "ecf-fp-q9-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q9-sol.png"
         },
         {
           "question_no": 10,
@@ -140,7 +149,8 @@
             "c": "ecf-fp-q10-c.png",
             "d": "ecf-fp-q10-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q10-sol.png"
         },
         {
           "question_no": 11,
@@ -153,7 +163,8 @@
             "c": "ecf-fp-q11-c.png",
             "d": "ecf-fp-q11-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q11-sol.png"
         },
         {
           "question_no": 12,
@@ -166,7 +177,8 @@
             "c": "ecf-fp-q12-c.png",
             "d": "ecf-fp-q12-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q12-sol.png"
         },
         {
           "question_no": 13,
@@ -179,7 +191,8 @@
             "c": "ecf-fp-q13-c.png",
             "d": "ecf-fp-q13-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q13-sol.png"
         },
         {
           "question_no": 14,
@@ -192,7 +205,8 @@
             "c": "ecf-fp-q14-c.png",
             "d": "ecf-fp-q14-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q14-sol.png"
         },
         {
           "question_no": 15,
@@ -205,7 +219,8 @@
             "c": "ecf-fp-q15-c.png",
             "d": "ecf-fp-q15-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q15-sol.png"
         },
         {
           "question_no": 16,
@@ -218,7 +233,8 @@
             "c": "ecf-fp-q16-c.png",
             "d": "ecf-fp-q16-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q16-sol.png"
         },
         {
           "question_no": 17,
@@ -231,7 +247,8 @@
             "c": "ecf-fp-q17-c.png",
             "d": "ecf-fp-q17-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q17-sol.png"
         },
         {
           "question_no": 18,
@@ -244,7 +261,8 @@
             "c": "ecf-fp-q18-c.png",
             "d": "ecf-fp-q18-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q18-sol.png"
         },
         {
           "question_no": 19,
@@ -257,7 +275,8 @@
             "c": "ecf-fp-q19-c.png",
             "d": "ecf-fp-q19-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q19-sol.png"
         },
         {
           "question_no": 20,
@@ -270,7 +289,8 @@
             "c": "ecf-fp-q20-c.png",
             "d": "ecf-fp-q20-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q20-sol.png"
         },
         {
           "question_no": 21,
@@ -283,7 +303,8 @@
             "c": "ecf-fp-q21-c.png",
             "d": "ecf-fp-q21-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q21-sol.png"
         },
         {
           "question_no": 22,
@@ -296,7 +317,8 @@
             "c": "ecf-fp-q22-c.png",
             "d": "ecf-fp-q22-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q22-sol.png"
         },
         {
           "question_no": 23,
@@ -309,7 +331,8 @@
             "c": "ecf-fp-q23-c.png",
             "d": "ecf-fp-q23-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q23-sol.png"
         },
         {
           "question_no": 24,
@@ -322,7 +345,8 @@
             "c": "ecf-fp-q24-c.png",
             "d": "ecf-fp-q24-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q24-sol.png"
         },
         {
           "question_no": 25,
@@ -335,7 +359,8 @@
             "c": "ecf-fp-q25-c.png",
             "d": "ecf-fp-q25-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q25-sol.png"
         },
         {
           "question_no": 26,
@@ -348,7 +373,8 @@
             "c": "ecf-fp-q26-c.png",
             "d": "ecf-fp-q26-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q26-sol.png"
         },
         {
           "question_no": 27,
@@ -361,7 +387,8 @@
             "c": "ecf-fp-q27-c.png",
             "d": "ecf-fp-q27-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q27-sol.png"
         },
         {
           "question_no": 28,
@@ -374,7 +401,8 @@
             "c": "ecf-fp-q28-c.png",
             "d": "ecf-fp-q28-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q28-sol.png"
         },
         {
           "question_no": 29,
@@ -387,7 +415,8 @@
             "c": "ecf-fp-q29-c.png",
             "d": "ecf-fp-q29-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q29-sol.png"
         },
         {
           "question_no": 30,
@@ -400,7 +429,8 @@
             "c": "ecf-fp-q30-c.png",
             "d": "ecf-fp-q30-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q30-sol.png"
         },
         {
           "question_no": 31,
@@ -413,7 +443,8 @@
             "c": "ecf-fp-q31-c.png",
             "d": "ecf-fp-q31-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q31-sol.png"
         },
         {
           "question_no": 32,
@@ -426,7 +457,8 @@
             "c": "ecf-fp-q32-c.png",
             "d": "ecf-fp-q32-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q32-sol.png"
         },
         {
           "question_no": 33,
@@ -439,7 +471,8 @@
             "c": "ecf-fp-q33-c.png",
             "d": "ecf-fp-q33-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q33-sol.png"
         },
         {
           "question_no": 34,
@@ -452,7 +485,8 @@
             "c": "ecf-fp-q34-c.png",
             "d": "ecf-fp-q34-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q34-sol.png"
         },
         {
           "question_no": 35,
@@ -465,7 +499,8 @@
             "c": "ecf-fp-q35-c.png",
             "d": "ecf-fp-q35-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q35-sol.png"
         },
         {
           "question_no": 36,
@@ -478,7 +513,8 @@
             "c": "ecf-fp-q36-c.png",
             "d": "ecf-fp-q36-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q36-sol.png"
         },
         {
           "question_no": 37,
@@ -491,7 +527,8 @@
             "c": "ecf-fp-q37-c.png",
             "d": "ecf-fp-q37-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q37-sol.png"
         },
         {
           "question_no": 38,
@@ -504,7 +541,8 @@
             "c": "ecf-fp-q38-c.png",
             "d": "ecf-fp-q38-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q38-sol.png"
         },
         {
           "question_no": 39,
@@ -517,7 +555,8 @@
             "c": "ecf-fp-q39-c.png",
             "d": "ecf-fp-q39-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q39-sol.png"
         },
         {
           "question_no": 40,
@@ -530,7 +569,8 @@
             "c": "ecf-fp-q40-c.png",
             "d": "ecf-fp-q40-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q40-sol.png"
         },
         {
           "question_no": 41,
@@ -543,7 +583,8 @@
             "c": "ecf-fp-q41-c.png",
             "d": "ecf-fp-q41-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q41-sol.png"
         },
         {
           "question_no": 42,
@@ -556,7 +597,8 @@
             "c": "ecf-fp-q42-c.png",
             "d": "ecf-fp-q42-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q42-sol.png"
         },
         {
           "question_no": 43,
@@ -569,7 +611,8 @@
             "c": "ecf-fp-q43-c.png",
             "d": "ecf-fp-q43-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q43-sol.png"
         },
         {
           "question_no": 44,
@@ -582,7 +625,8 @@
             "c": "ecf-fp-q44-c.png",
             "d": "ecf-fp-q44-d.png"
           },
-          "header_in_image": false
+          "header_in_image": false,
+          "solution_image": "ecf-fp-q44-sol.png"
         }
       ]
     },
