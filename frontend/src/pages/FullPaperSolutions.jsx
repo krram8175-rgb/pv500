@@ -64,7 +64,7 @@ export default function FullPaperSolutions() {
     <div className="min-h-screen bg-[#F8FAFC]">
       <Header showBack title={paper.title || "Full Paper — Solutions"} Icon={Stethoscope} bgClass="bg-[#5B50E6]" />
 
-      <main className="mx-auto max-w-3xl px-4 py-6 md:px-6">
+      <main className="mx-auto max-w-3xl px-4 py-6 pb-28 md:px-6">
         <div className="mb-4 flex flex-wrap items-center gap-2">
           <span className="rounded-lg bg-[#5B50E6] px-2.5 py-1 text-xs font-extrabold text-white">With Solutions</span>
           <span className="rounded-lg bg-slate-100 px-2.5 py-1 text-xs font-bold text-slate-700">{paper.total_questions} questions</span>
@@ -175,7 +175,8 @@ export default function FullPaperSolutions() {
           ))}
         </div>
 
-        <div className="mt-5 flex items-center justify-between">
+        <div className="fixed inset-x-0 bottom-0 z-40 border-t border-slate-200 bg-white/95 px-4 py-3 shadow-[0_-2px_12px_rgba(0,0,0,0.06)] backdrop-blur">
+          <div className="mx-auto flex max-w-3xl items-center justify-between">
           <button disabled={cur === 0} onClick={() => { setIdx(cur - 1); window.scrollTo(0, 0); }}
             className="flex items-center gap-1 rounded-lg border border-slate-200 bg-white px-4 py-2 text-sm font-bold text-slate-600 transition-all hover:bg-slate-50 disabled:opacity-40">
             <ChevronLeft className="h-4 w-4" /> Previous
@@ -185,6 +186,7 @@ export default function FullPaperSolutions() {
             className="flex items-center gap-1 rounded-lg bg-[#5B50E6] px-4 py-2 text-sm font-bold text-white transition-all hover:bg-[#4a41c9] disabled:opacity-40">
             Next <ChevronRight className="h-4 w-4" />
           </button>
+          </div>
         </div>
       </main>
 
