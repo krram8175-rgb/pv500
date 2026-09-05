@@ -35,8 +35,9 @@ export default function ChapterPractice() {
     const working = activeTag === "All" ? sorted : sorted.filter((q) => q.similarity_tag === activeTag);
     const total = working.length;
     const idx = Math.min(curIdx, total - 1);
-    // Warm the browser cache for the next two and the previous question.
-    [working[idx + 1], working[idx + 2], working[idx - 1]].filter(Boolean).forEach((q) => {
+    // Warm the browser cache for the next SIX questions (and the previous one)
+    // so Next feels instant even when tapping quickly through several questions.
+    [working[idx + 1], working[idx + 2], working[idx + 3], working[idx + 4], working[idx + 5], working[idx + 6], working[idx - 1]].filter(Boolean).forEach((q) => {
       const urls = [q.question_image, q.solution_image, ...Object.values(q.option_images || {})].filter(Boolean);
       urls.forEach((u) => {
         const img = new Image();
